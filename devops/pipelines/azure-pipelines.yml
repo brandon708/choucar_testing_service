@@ -3,7 +3,7 @@ parameters:
   - name: tags
     displayName: 'Scenarios to run'
     type: string
-    default: '@Exito'
+    default: '@Dummy'
 
 #########
 # It is not allow Trigger or Pull Request execution.
